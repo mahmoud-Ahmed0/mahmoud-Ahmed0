@@ -1,58 +1,73 @@
-## Hey 👋, I'm Mahmoud Ahmed
+# 👋 Mahmoud Ahmed
 
-<a href="YOUR_LINKEDIN_URL">
-  <img align="left" alt="LinkedIn" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height="18px"/>
-</a>
+Computer Engineering student at **The British University in Egypt**, focused on **Artificial Intelligence, Data Science, and Data Analytics**.
 
-<a href="YOUR_TWITTER_URL">
-  <img align="left" alt="Twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height="18px"/>
-</a>
+Awarded a **full excellence scholarship** and ranked **4th in my first academic year**, reflecting strong academic performance and consistency.
 
-<a href="YOUR_KAGGLE_URL">
-  <img alt="Kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height="18px"/>
-</a>
+I am passionate about turning data into insights and building practical solutions through programming, analytics, and engineering systems.
+
+I also gained hands-on experience through the **Egyptian Space Agency**, contributing to a **CanSat (mini-satellite) project using ESP32 and sensors**.
 
 ---
 
-### 👨‍🎓 About Me
+## 🧠 Skills
 
-I am a **Computer Engineering student at The British University in Egypt**, with a strong interest in **Artificial Intelligence, Data Science, and Data Analytics**.
+### Programming Languages
+- Python  
+- C++  
 
-I was awarded a **full excellence scholarship** and achieved **4th place in my first academic year**, reflecting my consistency and academic dedication.
+### Data & Analytics
+- SQL  
+- Excel  
 
-I enjoy transforming data into meaningful insights and solving real-world problems through analytical thinking and engineering approaches.
+### Data Visualization
+- Power BI  
+- Tableau  
 
+### Computer Science Fundamentals
+- Data Structures  
+- Algorithms  
+- Problem Solving  
+
+### Engineering & Embedded Systems
+- Embedded Systems  
+- IoT Fundamentals  
+- ESP32 Development  
 
 ---
 
-### 🧠 Skills & Tools
+## 🛰️ Experience
 
-- **Programming:** Python, C++
-- **Data Analysis:** SQL, Excel
-- **Visualization:** Power BI, Tableau
-- **Core Knowledge:** Data Structures, Algorithms, Problem Solving
+### Egyptian Space Agency — CanSat Project
+- Contributed to a mini-satellite (CanSat) engineering project  
+- Worked with ESP32 microcontroller and sensor integration  
+- Assisted in system testing and data collection processes  
 
 ---
 
-### 🚀 Interests
+## 🎯 Areas of Interest
 
-- Artificial Intelligence & Machine Learning  
+- Artificial Intelligence  
+- Machine Learning (currently exploring)  
 - Data Science & Analytics  
 - Embedded Systems & IoT  
-- Problem Solving & Software Development  
+- Software Engineering  
 
 ---
 
-### 🏆 Achievements
+## 📌 Goals
 
-- 🎓 Full Excellence Scholarship Recipient  
-- 📊 Ranked 4th in First Academic Year  
-- 🛰️ Participated in Egyptian Space Agency CanSat Project  
+- Build strong real-world data science projects  
+- Gain internship experience in AI / Data Analytics  
+- Strengthen problem-solving and system design skills  
+- Contribute to impactful engineering or data-driven projects  
 
 ---
 
-### 📫 Let's Connect
+## 📫 Contact
 
-Feel free to reach out for internships, collaborations, or opportunities in **Data Science, AI, or Software Engineering**.
+- LinkedIn: add your link here  
+- GitHub: add your link here  
+- Email: optional  
 
 ---
