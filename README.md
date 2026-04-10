@@ -6,8 +6,6 @@ Awarded a **full excellence scholarship** and ranked **4th in my first academic 
 
 I am passionate about turning data into insights and building practical solutions through programming, analytics, and engineering systems.
 
-I also gained hands-on experience through the **Egyptian Space Agency**, contributing to a **CanSat (mini-satellite) project using ESP32 and sensors**.
-
 ---
 
 ## 🧠 Skills
