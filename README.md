@@ -22,7 +22,6 @@ I was awarded a **full excellence scholarship** and achieved **4th place in my f
 
 I enjoy transforming data into meaningful insights and solving real-world problems through analytical thinking and engineering approaches.
 
-I also gained practical engineering experience through the **Egyptian Space Agency**, where I contributed to a **CanSat (mini-satellite) project** using **ESP32 microcontrollers and sensor systems**.
 
 ---
 
