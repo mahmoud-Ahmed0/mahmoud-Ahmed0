@@ -53,10 +53,4 @@ I also gained hands-on experience through the **Egyptian Space Agency**, contrib
 - Embedded Systems & IoT  
 - Software Engineering  
 
----
 
-
-## 📫 Contact
-
-- LinkedIn: www.linkedin.com/in/mahmoud-ahmed-11a509357 
-- GitHub
