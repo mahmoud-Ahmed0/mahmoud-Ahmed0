@@ -55,14 +55,6 @@ I also gained hands-on experience through the **Egyptian Space Agency**, contrib
 
 ---
 
-## 📌 Goals
-
-- Build strong real-world data science projects  
-- Gain internship experience in AI / Data Analytics  
-- Strengthen problem-solving and system design skills  
-- Contribute to impactful engineering or data-driven projects  
-
----
 
 ## 📫 Contact
 
