@@ -66,8 +66,5 @@ I also gained hands-on experience through the **Egyptian Space Agency**, contrib
 
 ## 📫 Contact
 
-- LinkedIn: add your link here  
-- GitHub: add your link here  
-- Email: optional  
-
----
+- LinkedIn: www.linkedin.com/in/mahmoud-ahmed-11a509357 
+- GitHub
